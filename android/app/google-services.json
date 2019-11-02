@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936672360064",
+    "firebase_url": "https://headunitclienttoyota.firebaseio.com",
+    "project_id": "headunitclienttoyota",
+    "storage_bucket": "headunitclienttoyota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936672360064:android:e5b7619e652c470f11d865",
+        "android_client_info": {
+          "package_name": "com.clientheadunit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936672360064-go7jghus5j6kkfr730927rss1khi5q2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clientheadunit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "936672360064-4f5d2h6ql5h025u5n77i20r0vmauln05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2LJ6FYxVsSaGnsY0DZzRHzM2-VVGZYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936672360064-4f5d2h6ql5h025u5n77i20r0vmauln05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
